@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "description": "We are looking for a Software Engineer to join our team.",
+    "location": "Remote",
+    "salary": "$100,000 - $150,000",
+    "createdAt": "2024-11-05T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Data Engineer",
+    "description": "work on data and find trends and patterns",
+    "location": "Bangalore",
+    "salary": "$20000-$30000",
+    "createdAt": "2024-11-06T09:40:45.593Z"
+  },
+  {
+    "id": 3,
+    "title": "Sales Executive",
+    "description": "Sell various products of the company and maximize profit ",
+    "location": "Delhi",
+    "salary": "$10000-$15000",
+    "createdAt": "2024-11-06T11:01:04.893Z"
+  },
+  {
+    "id": 4,
+    "title": "QA analyst",
+    "description": "a professional who ensures that products, services, and processes meet quality standards and customer expectations.",
+    "location": "Hydrabad",
+    "salary": "$10000",
+    "createdAt": "2024-11-06T11:11:38.342Z"
+  },
+  {
+    "id": 5,
+    "title": "React Intern",
+    "description": "Build and Deploy React Apps",
+    "location": "Bangalore",
+    "salary": "$10000-$15000",
+    "createdAt": "2024-11-13T06:08:36.974Z"
+  },
+  {
+    "id": 6,
+    "title": "React Intern",
+    "description": "Build and Deploy React Apps",
+    "location": "Bangalore",
+    "salary": "$10000-$15000",
+    "createdAt": "2024-11-13T06:08:40.236Z"
+  },
+  {
+    "id": 7,
+    "title": "HR",
+    "description": "Manage the employees and administer employee benefits.",
+    "location": "Pune",
+    "salary": "$6000-$9000",
+    "createdAt": "2024-11-13T06:22:36.712Z"
+  },
+  {
+    "id": 8,
+    "title": "Project Manager",
+    "description": "Guide a project from start to finish, ensuring it's completed on time, within budget, and to the satisfaction of stakeholders",
+    "location": "Kochi",
+    "salary": "$20000-$30000",
+    "userId": 105532060,
+    "createdBy": "Sukrithi S",
+    "createdAt": "2024-11-13T06:31:33.742Z"
+  },
+  {
+    "id": 9,
+    "title": "Software Intern",
+    "description": "Assist in SDLC of various projects, write quality code, perform unit testing and debug any issues",
+    "location": "Kolkata",
+    "salary": "$12000-$14000",
+    "createdAt": "2024-11-13T10:56:25.057Z"
+  },
+  {
+    "id": 10,
+    "title": "Data Intern",
+    "description": "Work on data to find trend and patterns which assist in better market analysis",
+    "location": "Delhi",
+    "salary": "$6000-$9000",
+    "createdAt": "2024-11-13T12:02:11.511Z"
+  },
+  {
+    "id": 11,
+    "title": "Backend Developer",
+    "description": "https://google.com",
+    "location": "Bengaluru",
+    "salary": "Unpaid Internship",
+    "createdAt": "2024-11-14T05:16:19.292Z"
+  },
+  {
+    "id": 12,
+    "title": "Test",
+    "description": "Testing",
+    "location": "NA",
+    "salary": "NA",
+    "createdAt": "2024-11-14T05:46:32.403Z"
+  },
+  {
+    "id": 13,
+    "title": "UX/UI Designer",
+    "description": "Create user-centered designs for digital products, such as websites, mobile apps, and software interfaces",
+    "location": "Mumbai",
+    "salary": "$20000",
+    "userId": 105532060,
+    "createdBy": "Sukrithi S",
+    "createdAt": "2024-11-14T05:53:13.619Z"
+  },
+  {
+    "id": 14,
+    "title": "Testing 2",
+    "description": "Testing",
+    "location": "NA",
+    "salary": "NA",
+    "createdAt": "2024-11-14T06:01:08.214Z"
+  },
+  {
+    "id": 15,
+    "title": "Testing 3",
+    "description": "testing",
+    "location": "NA",
+    "salary": "NA",
+    "userId": 148254896,
+    "createdBy": "Shreyas-M-246418",
+    "createdAt": "2024-11-14T06:35:16.019Z"
+  },
+  {
+    "id": 16,
+    "title": "Testing 4",
+    "description": "testing",
+    "location": "NA",
+    "salary": "NA",
+    "userId": 148254896,
+    "createdBy": "Shreyas M",
+    "createdAt": "2024-11-14T06:36:51.436Z"
+  },
+  {
+    "id": 17,
+    "title": "testing 5",
+    "description": "testing",
+    "location": "NA",
+    "salary": "NA",
+    "userId": 148254896,
+    "createdBy": "Shreyas M",
+    "createdAt": "2024-11-14T06:51:09.123Z"
+  },
+  {
+    "id": 18,
+    "title": "Performance Engineer",
+    "description": "Ensure the performance of an application or system by identifying and resolving issues, developing testing strategies, and optimizing performance",
+    "location": "Delhi",
+    "salary": "$15000",
+    "userId": 105532060,
+    "createdBy": "suk03",
+    "createdAt": "2024-11-14T07:05:28.919Z"
+  },
+  {
+    "id": 19,
+    "title": "testing link",
+    "description": "https://www.google.com",
+    "location": "NA",
+    "salary": "NA",
+    "userId": 148254896,
+    "createdBy": "Shreyas-M-246418",
+    "createdAt": "2024-11-14T07:20:09.182Z"
+  },
+  {
+    "id": 20,
+    "title": "testing 6",
+    "description": "testing",
+    "location": "NA",
+    "salary": "NA",
+    "userId": 148254896,
+    "createdBy": "Shreyas M",
+    "createdAt": "2024-11-14T07:30:14.802Z"
+  },
+  {
+    "id": 21,
+    "title": "testing 7",
+    "description": "test",
+    "location": "NA",
+    "salary": "NA",
+    "userId": 148254896,
+    "createdBy": "Shreyas-M-246418",
+    "createdAt": "2024-11-14T09:01:43.000Z"
+  }
+]
